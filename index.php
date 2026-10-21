@@ -7,4 +7,5 @@
     $c = 41;
     echo $a + $b;
     echo("Hello world");
+    echo("X7");
 ?>
