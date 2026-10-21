@@ -1,4 +1,6 @@
 <?php
+    $k = 22;
+    echo $k;
     $s = 30;
     echo $s;
     $a = 15;
