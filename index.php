@@ -10,4 +10,5 @@
     echo $a + $b;
     echo("Hello world");
     echo("X7");
+    echo("S7");
 ?>
